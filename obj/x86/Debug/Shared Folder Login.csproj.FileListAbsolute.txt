@@ -1,0 +1,7 @@
+C:\Users\iceman\Desktop\Shared Folder Login\Shared Folder Login\bin\Debug\Shared Folder Login.exe
+C:\Users\iceman\Desktop\Shared Folder Login\Shared Folder Login\bin\Debug\Shared Folder Login.pdb
+C:\Users\iceman\Desktop\Shared Folder Login\Shared Folder Login\obj\x86\Debug\Shared_Folder_Login.Form1.resources
+C:\Users\iceman\Desktop\Shared Folder Login\Shared Folder Login\obj\x86\Debug\Shared_Folder_Login.Properties.Resources.resources
+C:\Users\iceman\Desktop\Shared Folder Login\Shared Folder Login\obj\x86\Debug\Shared Folder Login.csproj.GenerateResource.Cache
+C:\Users\iceman\Desktop\Shared Folder Login\Shared Folder Login\obj\x86\Debug\Shared Folder Login.exe
+C:\Users\iceman\Desktop\Shared Folder Login\Shared Folder Login\obj\x86\Debug\Shared Folder Login.pdb
